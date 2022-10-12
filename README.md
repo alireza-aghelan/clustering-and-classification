@@ -19,11 +19,11 @@ below are some results for clustering cities in the Divar dataset :
 
 city = index
 
-<img width="313" alt="image" src="https://user-images.githubusercontent.com/47056654/195443003-04a8920c-b4cf-464b-a0df-fe5d32a9c725.png">
+<img width="381" alt="image" src="https://user-images.githubusercontent.com/47056654/195443217-5eb4ade0-8d18-4b68-a9f5-99df9694fd07.png">
 
 clustering results:
 
-<img width="431" alt="image" src="https://user-images.githubusercontent.com/47056654/195443017-80d0da88-6a9f-47b0-a98f-21701394036c.png">
+<img width="527" alt="image" src="https://user-images.githubusercontent.com/47056654/195443244-6026c5d3-45a5-4cfe-80ea-03a49030ed9f.png">
 
 In the next part, we determine whether a given price is an outlier or not
 For this, we have done the following steps:

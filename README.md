@@ -19,11 +19,9 @@ below are some results for clustering cities in the Divar dataset :
 
 city = index
 
-<img width="225" alt="image" src="https://user-images.githubusercontent.com/47056654/195442267-97180c38-bd7d-4fc7-9e9c-4f1810405f88.png">
+![Uploading image.png…]()
 
 clustering results:
-
-<img width="332" alt="image" src="https://user-images.githubusercontent.com/47056654/195442366-b5fc123e-d697-46a4-9707-955f5730a5ed.png">
 
 In the next part, we determine whether a given price is an outlier or not
 For this, we have done the following steps:
@@ -35,4 +33,4 @@ For this, we have done the following steps:
 3- The desired product specifications are entered and the trained model determines a price label for it.
 
 4- The entered price is compared with the price label suggested by the model and it is determined whether the entered price is an outlier or not.
-![image](https://user-images.githubusercontent.com/47056654/195442398-039b7bec-0dc9-470c-af6e-a55dea442503.png)
+

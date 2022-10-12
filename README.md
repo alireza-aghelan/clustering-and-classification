@@ -2,7 +2,9 @@
  In the first part, we want to perform clustering on the Divar and Digikala datasets as follows :
 
 1-Clustering cities based on the products that are put up for sale in the Divar dataset
+
 2-Clustering cities based on the products sold in them in the Digikala dataset
+
 3-Clustering products based on their price in the Divar dataset
 
 datasets can be downloaded from the link below :

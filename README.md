@@ -13,6 +13,9 @@ To cluster cities, we first create a vector for each city.
 the number of elements of this vector is equal to the number of types of products, for each type of product, there is a corresponding number of products.
 
 In the next step, the vectors are entered into different clustering algorithms (Agglomerative Clustering - BIRCH - K-Means - Mini-Batch K-Means - Mean Shift) and clustering of cities is done. (clustering products is similar to clustering cities)
+
+![1_2eQuIebjtTMJot27bWXgCQ](https://user-images.githubusercontent.com/47056654/195444041-8b52b11a-c739-4933-80bd-aa7f6b979af0.png)
+
 to evaluate our clustering algorithms, we used the silhouette score.
 
 below are some results for clustering cities in the Divar dataset :
